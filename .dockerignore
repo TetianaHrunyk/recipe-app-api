@@ -1,7 +1,9 @@
 # Git
 .git
 .gitignore
-.devcontainer
+.devcontainer/
+.vscode
+Makefile
 
 # Docker
 .docker
